@@ -1,0 +1,12 @@
+# Large data files (can be regenerated from scripts)
+data/raw/*.csv
+data/processed/*.rds
+
+# OS files
+.DS_Store
+.Rhistory
+*.Rproj
+.RData
+
+# Logs
+*.log
